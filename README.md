@@ -15,5 +15,5 @@
 git clone https://github.com/hujiulong/simple-react.git
 cd simple-react
 npm install
-parcel index.html
+npm start
 ```
